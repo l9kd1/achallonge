@@ -30,7 +30,7 @@ setup(name='achallonge-fork-compat',
       license='MIT',
 
       author='Fabien Poupineau (fp12)',
-      url='https://github.com/fp12/achallonge',
+      url='https://github.com/l9kd1/achallonge',
 
       packages=find_packages(),
       install_requires=requirements,
