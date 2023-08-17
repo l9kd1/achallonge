@@ -1,7 +1,6 @@
 venv/
 htmlcov/
 build/
-dist/
 achallonge.egg-info/
 .vscode/
 .vs/
