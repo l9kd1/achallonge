@@ -1,0 +1,5 @@
+aiohttp>=3.6.0
+
+[speed]
+cchardet
+aiodns
