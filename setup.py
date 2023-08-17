@@ -20,7 +20,7 @@ version = ''
 with open('challonge/__init__.py') as f:
     version = re.search(r'^__version__\s*=\s*[\'"]([^\'"]*)[\'"]', f.read(), re.MULTILINE).group(1)
 
-setup(name='achallonge-fork-compat',
+setup(name='achallonge-compat-fork',
       version=version,
 
       description='A python library to use the Challonge API',
